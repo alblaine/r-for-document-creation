@@ -5,5 +5,5 @@ This repository contains the files for the "R for Document Creation," workshop a
 
 ### Materials 
 * [Slides](https://alblaine.github.io/r-for-document-creation-workshop)
-* [Handout](https://github.com/alblaine/r-for-document-creation-workshop/blob/master/handout.md) -- essentially the slide content as a handout
+* [Handout](https://github.com/alblaine/r-for-document-creation/blob/master/handout.md) -- essentially the slide content as a handout
 
