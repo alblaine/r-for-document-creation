@@ -1,0 +1,29 @@
+---
+title: "Your Name"
+output: html_document
+---
+
+Address 
+
+Contact info 
+
+<hr>
+
+## Education
+
+* School #1
+
+* School #2 
+
+## Work Experience
+
+* Position #1 
+
+* Position #2 
+
+* Position #3 
+
+* Position #4 
+
+## Presentations and Publications 
+
