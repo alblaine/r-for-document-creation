@@ -325,7 +325,7 @@ Try setting your global chunk option to the following. Each time, knit the code 
 
 ## Knit as a Microsoft Word Doc
 
-Change `output: html_document` to `output: word_document`.
+Change `output: html_document` to `output: word_document`
 
 ```
 ---
@@ -478,46 +478,8 @@ To create a static website with R Markdown, you need the following files:
 
 ## Rendering Your Website
 
-Inside directory that contains _site.yml and index.Rmd, you can run: 
+Inside directory that contains _site.yml and index.Rmd, type the following line and hit enter: 
 
 `rmarkdown::render_site()`
-
-## Exercise 4: Open _site.yml file
-
-Add resume.html
-
-```
----
-name: "my-website"
-navbar:
-  title: "My Website"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "About Me"
-      href: about.html
-    - text: "Resume"
-      href: resume.html
----
-```
-
-## Create resume.html .Rmd file
-
-```
----
-Your Name   
-Address  
-Contact Info  
-<hr>
-
-##### Education
-
-##### Work Experience 
----
-```
-## Render the site
-Make sure you're in the website directory
-
-Type `rmarkdown::render_site()` in the console
 
 ![](images/rendersite.png)
