@@ -1,7 +1,9 @@
 ---
 title: "R for Document Creation Handout"
 date: "March 7, 2018"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
