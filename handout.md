@@ -15,7 +15,7 @@ This will be a hands-on session.
 
 * Alison Blaine, Data & Visualization Librarian, ablaine@ncsu.edu
 * Shelby Hallman, Research Librarian for Engineering and Entrepreneurship, sjhallma@ncsu.edu 
-* Consultation requests are welcome!
+* Erica Hayes, NCSU Libraries Fellow, eyhayes@ncsu.edu
 
 ## Traditional Model of a Research Document
 
@@ -53,7 +53,7 @@ R is a programming language for statistical computing and graphics.
 
 ## R Packages
 
-Base R is extended by packages that can be imported into R. Currently there are over 13,000 registered packages. 
+Base R is extended by packages that can be imported into R. 
 Find packages at [RDocumentation.org](http://RDocumentation.org)
 
 ![](images/packages.png)

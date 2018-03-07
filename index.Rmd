@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = FALSE, fig.width = 4, fig.height = 3)
 
 * Alison Blaine, Data & Visualization Librarian, ablaine@ncsu.edu
 * Shelby Hallman, Research Librarian for Engineering and Entrepreneurship, sjhallma@ncsu.edu 
-* Consultation requests are welcome!
+* Erica Hayes, NCSU Libraries Fellow, eyhayes@ncsu.edu
 
 
 ## Traditional Model of a Research Document
@@ -71,7 +71,7 @@ R is a programming language for statistical computing and graphics.
 
 ## R Packages
 
-Base R is extended by packages that can be imported into R. Currently there are over 13,000 registered packages. 
+Base R is extended by packages that can be imported into R. 
 Find packages at [RDocumentation.org](http://RDocumentation.org)
 
 ![](images/packages.png)
@@ -307,8 +307,7 @@ In RStudio, go to `Help > Cheatsheets > R Markdown Reference Guide`
 
 ## Exercise 1: Create an R Markdown file
 
-1. **Log in to RStudio at go.ncsu.edu/ato** 
-(or open RStudio on your computer)
+1. Open RStudio on your computer
 2. File > New File > R Markdown
 3. Select HTML
 4. Title it "HelloWorld"
@@ -408,7 +407,7 @@ hist(Nile, main="Histogram of Nile Flow", xlab="Flow rate")
 ---
 title: "Measuring Nile Flow"
 author: "Your Name Here"
-date: "October 24, 2017"
+date: "March 7, 2018"
 output: 
     html_document: 
       toc: true
